@@ -1,0 +1,5 @@
+com/microservices/WsCnamApi.class
+com/microservices/wscnam/DemandeRepository.class
+com/microservices/wscnam/Demande.class
+com/microservices/wscnam/WscnamController.class
+com/microservices/wscnam/WscnamService.class
